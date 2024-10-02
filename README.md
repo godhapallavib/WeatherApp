@@ -20,7 +20,7 @@ flutter pub get
 
 Create your own OpenWeather API key and use it to replace the value of apiKey in WeatherProvider.dart file
 
-**Step 3:**
+**Step 4:**
 
 Run the application using the following command:
 
